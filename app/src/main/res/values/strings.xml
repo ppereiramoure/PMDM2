@@ -1,4 +1,11 @@
 <resources>
-    <string name="app_name">PMDM2</string>
+    <string name="app_name">AppRepaso2</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_cliente">Cliente</string>
+
+    <string name="title_mapa">Mapa</string>
+    <string name="title_dashboard">Profesionales</string>
+    <string name="title_notifications">Notificaciones</string>
+
+    <string name="textProfesional">ESPERANDO CONFIRMACIÓN</string>
 </resources>
